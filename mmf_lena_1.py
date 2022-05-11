@@ -1,7 +1,7 @@
 #import regular expressions
 
 import re
-import pandas
+import panda
 
 # functions go here
 
